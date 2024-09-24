@@ -1,4 +1,6 @@
-RandibaBot | Random Telegram Bot
+![icon](files/randibaicon_160px.png)
+
+#RandibaBot | Random Telegram Bot
 
 This bot can send a random word/image/music/movie to the user.
 Web Scraping is used in the code.
