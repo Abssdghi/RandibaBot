@@ -7,12 +7,16 @@ Web Scraping is used in the code.
 to run, put your Telegram api in the tokens.py file.
 
 requirements:
-  python 3.10 or higher;
-  python libraries:
-    {pyrogram;
-    bing_image_urls;
-    pyenchant;
-    bs4;
-    requests;
-    urllib;
-    random;}
+<ul>
+  <li>python 3.10 or higher</li>
+  <li>python libraries</li>
+  <ul>
+    <li>pyrogram</li>
+    <li>bing_image_urls</li>
+    <li>pyenchant</li>
+    <li>bs4</li>
+    <li>requests</li>
+    <li>urllib</li>
+    <li>random</li>
+  </ul>
+</ul>
