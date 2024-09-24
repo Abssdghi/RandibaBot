@@ -2,8 +2,8 @@
 
 <h1>RandibaBot | Random Telegram Bot</h1>
 
-This bot can send a random word/image/music/movie to the user.
-Web Scraping is used in the code.
+This bot can send a random word/image/music/movie to the user.<br>
+Web Scraping is used in the code.<br>
 to run, put your Telegram api in the tokens.py file.
 
 requirements:
