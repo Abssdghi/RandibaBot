@@ -11,7 +11,7 @@ requirements:
   <li>python 3.10 or higher</li>
   <li>python libraries</li>
   <ul>
-    <li>pyrogram</li>
+    <li>pyrogram: </li>
     <li>bing_image_urls</li>
     <li>pyenchant</li>
     <li>bs4</li>
