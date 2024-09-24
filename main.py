@@ -8,7 +8,7 @@ api_hash = tokens.api_hash
 token = tokens.token
 
 
-bot = Client("olip", 
+bot = Client("abs", 
              api_id=api_id, 
              api_hash=api_hash, 
              bot_token=token)
