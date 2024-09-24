@@ -1,5 +1,8 @@
 RandibaBot | Random Telegram Bot
 
+This bot can send a random word/image/music/movie to the user.
+Web Scraping is used in the code.
+
 requirements:
   python 3.10 or higher;
   python libraries:
