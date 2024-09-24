@@ -6,7 +6,7 @@ This bot can send a random word/image/music/movie to the user.<br>
 Web Scraping is used in the code.<br>
 to run, put your Telegram api in the tokens.py file.
 
-requirements:
+Requirements:
 <ul>
   <li>python 3.10 or higher</li>
   <li>python libraries</li>
